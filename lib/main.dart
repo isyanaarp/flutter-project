@@ -39,12 +39,12 @@ class ProfileScreen extends StatelessWidget {
           ),
           const SizedBox(height: 10),
           const Text(
-            'I Ketut Resika Arthana, S.T., M.Kom',
+            'I Gusti Ayu Isyana Ariprabha',
             style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
           ),
           const SizedBox(height: 5),
           const Text(
-            'http://www.rey1024.com',
+            'http://www.isyana.com',
             style: TextStyle(fontSize: 16, color: Colors.blue),
           ),
           const SizedBox(height: 20),
@@ -58,8 +58,8 @@ class ProfileScreen extends StatelessWidget {
                 mainAxisSpacing: 15,
                 crossAxisSpacing: 15,
                 children: [
-                  buildCustomCard(Icons.gps_fixed, "Singaraja", Colors.green),
-                  buildCustomCard(Icons.store, "Panji", Colors.yellow),
+                  buildCustomCard(Icons.gps_fixed, "Karangasem", Colors.green),
+                  buildCustomCard(Icons.store, "Selat", Colors.yellow),
                   buildCustomCard(Icons.music_note, "All Genre", Colors.purple),
                   buildCustomCard(Icons.apartment, "Undiksha", Colors.blue),
                 ],

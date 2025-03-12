@@ -1,5 +1,10 @@
 # flutter_isyana_1
 
+Nama : I Gusti Ayu Isyana Ariprabha
+NIM : 2315091061
+
+<img src="assets/profil.png" alt="Logo" width="200"/>
+
 A new Flutter project.
 
 ## Getting Started
